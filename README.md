@@ -1,1 +1,1 @@
-# aAPP
+# miniApp
