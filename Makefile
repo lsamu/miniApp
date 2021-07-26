@@ -11,3 +11,12 @@ github:
 
 	git config --global --unset http.proxy
 	git config --global --unset https.proxy
+
+android:
+	flutter run -d android
+
+web:
+	flutter run -d chrome
+
+linux:
+	flutter run -d linux
