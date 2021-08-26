@@ -12,3 +12,7 @@ web:
 
 linux:
 	flutter run -d linux
+
+release:
+	flutter clean
+	flutter build apk --release
