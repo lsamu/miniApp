@@ -191,6 +191,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.10"
+  webview_flutter_x5:
+    dependency: "direct main"
+    description:
+      name: webview_flutter_x5
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.8+4"
   webview_windows:
     dependency: "direct main"
     description:

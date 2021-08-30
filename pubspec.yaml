@@ -33,6 +33,7 @@ dependencies:
   qr_flutter: ^4.0.0
   webview_windows: ^0.0.7
   dscript_exec: ^2.0.2
+  webview_flutter_x5: ^2.0.8+4
 
 dev_dependencies:
   flutter_test:
